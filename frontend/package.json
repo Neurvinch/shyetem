@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@selfxyz/core": "^1.1.0-beta.6",
+    "@selfxyz/qrcode": "^1.0.15",
+    "ethers": "^6.15.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
