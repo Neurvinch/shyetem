@@ -26,6 +26,8 @@ const App = () => {
         disclosures: {
           //check the API reference for more disclose attributes!
           minimumAge: 18,
+          excludedCountries: ["IRN", "PRK", "RUS", "SYR"],
+          ofac: true,
           nationality: true,
           gender: true,
       } })
