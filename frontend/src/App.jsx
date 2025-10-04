@@ -17,7 +17,7 @@ const App = () => {
         version: 2,
         appName:  "Self Workshop",
         scope: "self-workshop",
-        endpoint: `${window.location.origin}/api`,
+        endpoint: "https://playground.self.xyz/api/verify",
         logoBase64: "https://i.postimg.cc/mrmVf9hm/self.png",
         userId: userId,
         endpointType: "staging_https",
