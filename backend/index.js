@@ -1,1 +1,2 @@
-console.log("Hello via Bun!");
+import {SelfBackendVerifier, AllIds,DefaultConfigStore} from "@selfxyz/core"
+
